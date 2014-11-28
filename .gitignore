@@ -1,3 +1,6 @@
 project
 target
 .idea
+.lib-src
+.tags
+*.swp
